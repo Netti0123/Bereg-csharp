@@ -1,0 +1,8 @@
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Testapp\bin\Debug\Testapp.exe.config
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Testapp\bin\Debug\Testapp.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Testapp\bin\Debug\Testapp.pdb
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Testapp\obj\Debug\Testapp.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Testapp\obj\Debug\Testapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Testapp\obj\Debug\Testapp.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Testapp\obj\Debug\Testapp.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Testapp\obj\Debug\Testapp.pdb

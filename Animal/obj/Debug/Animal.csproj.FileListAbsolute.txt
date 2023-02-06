@@ -1,0 +1,8 @@
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Animal\bin\Debug\Animal.exe.config
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Animal\bin\Debug\Animal.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Animal\bin\Debug\Animal.pdb
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Animal\obj\Debug\Animal.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Animal\obj\Debug\Animal.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Animal\obj\Debug\Animal.pdb

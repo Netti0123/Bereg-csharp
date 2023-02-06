@@ -1,0 +1,8 @@
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\runparam\bin\Debug\runparam.exe.config
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\runparam\bin\Debug\runparam.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\runparam\bin\Debug\runparam.pdb
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\runparam\obj\Debug\runparam.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\runparam\obj\Debug\runparam.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\runparam\obj\Debug\runparam.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\runparam\obj\Debug\runparam.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\runparam\obj\Debug\runparam.pdb

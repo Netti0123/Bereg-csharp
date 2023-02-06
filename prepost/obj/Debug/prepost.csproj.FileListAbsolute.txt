@@ -1,0 +1,8 @@
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\prepost\bin\Debug\prepost.exe.config
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\prepost\bin\Debug\prepost.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\prepost\bin\Debug\prepost.pdb
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\prepost\obj\Debug\prepost.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\prepost\obj\Debug\prepost.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\prepost\obj\Debug\prepost.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\prepost\obj\Debug\prepost.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\prepost\obj\Debug\prepost.pdb
