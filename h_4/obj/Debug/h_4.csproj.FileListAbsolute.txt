@@ -1,0 +1,8 @@
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_4\obj\Debug\h_4.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_4\obj\Debug\h_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_4\obj\Debug\h_4.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_4\bin\Debug\h_4.exe.config
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_4\bin\Debug\h_4.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_4\bin\Debug\h_4.pdb
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_4\obj\Debug\h_4.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_4\obj\Debug\h_4.pdb
