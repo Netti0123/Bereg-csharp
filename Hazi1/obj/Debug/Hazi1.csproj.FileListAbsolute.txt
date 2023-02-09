@@ -1,0 +1,8 @@
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Hazi1\bin\Debug\Hazi1.exe.config
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Hazi1\bin\Debug\Hazi1.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Hazi1\bin\Debug\Hazi1.pdb
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Hazi1\obj\Debug\Hazi1.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Hazi1\obj\Debug\Hazi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Hazi1\obj\Debug\Hazi1.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Hazi1\obj\Debug\Hazi1.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Hazi1\obj\Debug\Hazi1.pdb
