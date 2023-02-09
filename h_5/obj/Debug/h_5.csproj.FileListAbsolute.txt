@@ -1,0 +1,8 @@
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_5\bin\Debug\h_5.exe.config
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_5\bin\Debug\h_5.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_5\bin\Debug\h_5.pdb
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_5\obj\Debug\h_5.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_5\obj\Debug\h_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_5\obj\Debug\h_5.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_5\obj\Debug\h_5.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\h_5\obj\Debug\h_5.pdb
