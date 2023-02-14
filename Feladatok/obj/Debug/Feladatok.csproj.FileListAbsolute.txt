@@ -1,0 +1,8 @@
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Feladatok\bin\Debug\Feladatok.exe.config
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Feladatok\bin\Debug\Feladatok.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Feladatok\bin\Debug\Feladatok.pdb
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Feladatok\obj\Debug\Feladatok.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Feladatok\obj\Debug\Feladatok.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Feladatok\obj\Debug\Feladatok.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Feladatok\obj\Debug\Feladatok.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\Feladatok\obj\Debug\Feladatok.pdb
