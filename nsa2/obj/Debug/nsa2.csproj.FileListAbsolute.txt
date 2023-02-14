@@ -1,0 +1,8 @@
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\nsa2\bin\Debug\nsa2.exe.config
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\nsa2\bin\Debug\nsa2.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\nsa2\bin\Debug\nsa2.pdb
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\nsa2\obj\Debug\nsa2.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\nsa2\obj\Debug\nsa2.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\nsa2\obj\Debug\nsa2.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\nsa2\obj\Debug\nsa2.exe
+C:\Users\danko.anett\Desktop\dchf\Bereg-csharp\nsa2\obj\Debug\nsa2.pdb
