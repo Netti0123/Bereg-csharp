@@ -1,0 +1,15 @@
+.mezo{
+    padding: 5px 0;
+}
+
+legend{
+    background-color: aqua;
+    border: blue solid thin;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+fieldset{
+    background-color: beige;
+    border-radius: 20px 0;
+}
