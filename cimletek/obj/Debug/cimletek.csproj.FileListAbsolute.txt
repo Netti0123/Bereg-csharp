@@ -1,0 +1,8 @@
+C:\Users\danko.anett\Desktop\Visual\Bereg-csharp\cimletek\bin\Debug\cimletek.exe.config
+C:\Users\danko.anett\Desktop\Visual\Bereg-csharp\cimletek\bin\Debug\cimletek.exe
+C:\Users\danko.anett\Desktop\Visual\Bereg-csharp\cimletek\bin\Debug\cimletek.pdb
+C:\Users\danko.anett\Desktop\Visual\Bereg-csharp\cimletek\obj\Debug\cimletek.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\Visual\Bereg-csharp\cimletek\obj\Debug\cimletek.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko.anett\Desktop\Visual\Bereg-csharp\cimletek\obj\Debug\cimletek.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\Visual\Bereg-csharp\cimletek\obj\Debug\cimletek.exe
+C:\Users\danko.anett\Desktop\Visual\Bereg-csharp\cimletek\obj\Debug\cimletek.pdb
