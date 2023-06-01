@@ -1,0 +1,17 @@
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\bin\Debug\net6.0-windows\18.2szovegigazitas.exe
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\bin\Debug\net6.0-windows\18.2szovegigazitas.deps.json
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\bin\Debug\net6.0-windows\18.2szovegigazitas.runtimeconfig.json
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\bin\Debug\net6.0-windows\18.2szovegigazitas.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\bin\Debug\net6.0-windows\18.2szovegigazitas.pdb
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\18.2szovegigazitas.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\_18._2szovegigazitas.Form1.resources
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\18.2szovegigazitas.csproj.GenerateResource.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\18.2szovegigazitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\18.2szovegigazitas.AssemblyInfoInputs.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\18.2szovegigazitas.AssemblyInfo.cs
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\18.2szovegigazitas.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\18.2szovegigazitas.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\refint\18.2szovegigazitas.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\18.2szovegigazitas.pdb
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\18.2szovegigazitas.genruntimeconfig.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.2szovegigazitas\obj\Debug\net6.0-windows\ref\18.2szovegigazitas.dll
