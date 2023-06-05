@@ -1,0 +1,17 @@
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\bin\Debug\net6.0-windows\18.6_scrollbal.exe
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\bin\Debug\net6.0-windows\18.6_scrollbal.deps.json
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\bin\Debug\net6.0-windows\18.6_scrollbal.runtimeconfig.json
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\bin\Debug\net6.0-windows\18.6_scrollbal.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\bin\Debug\net6.0-windows\18.6_scrollbal.pdb
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\18.6_scrollbal.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\_18._6_scrollbal.Form1.resources
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\18.6_scrollbal.csproj.GenerateResource.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\18.6_scrollbal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\18.6_scrollbal.AssemblyInfoInputs.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\18.6_scrollbal.AssemblyInfo.cs
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\18.6_scrollbal.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\18.6_scrollbal.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\refint\18.6_scrollbal.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\18.6_scrollbal.pdb
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\18.6_scrollbal.genruntimeconfig.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.6_scrollbal\obj\Debug\net6.0-windows\ref\18.6_scrollbal.dll
