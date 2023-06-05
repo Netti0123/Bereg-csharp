@@ -9,17 +9,7 @@ namespace _18._3koordinata
             InitializeComponent();
         }
 
-        private void panel1_MouseMove(object sender, MouseEventArgs e)
-        {
-            Text = String.Format("AzegérkoordinátáiX:{0},Y:{1}", e.X, e.Y);
-        }
-
-        private void panel1_Resize(object sender, EventArgs e)
-        {
-            PanelIgazit();
-
-         }
-
+   
         private void Form1_Load(object sender, EventArgs e)
         {
             PanelIgazit();
@@ -29,5 +19,16 @@ namespace _18._3koordinata
             panel1.Left = (ClientSize.Width - panel1.Width) / 2;
             panel1.Top = (ClientSize.Height - panel1.Height) / 2;
         }
+
+        private void Form1_Resize(object sender, EventArgs e)
+        {
+            PanelIgazit();
+        }
+
+        private void Form1_MouseMove(object sender, MouseEventArgs e)
+        { 
+            Text = String.Format("AzegérkoordinátáiX:{0},Y:{1}", e.X, e.Y);
+        
+    }
     }
 }

@@ -1,0 +1,17 @@
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\bin\Debug\net6.0-windows\18.3koordinata.exe
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\bin\Debug\net6.0-windows\18.3koordinata.deps.json
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\bin\Debug\net6.0-windows\18.3koordinata.runtimeconfig.json
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\bin\Debug\net6.0-windows\18.3koordinata.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\bin\Debug\net6.0-windows\18.3koordinata.pdb
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\18.3koordinata.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\_18._3koordinata.Form1.resources
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\18.3koordinata.csproj.GenerateResource.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\18.3koordinata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\18.3koordinata.AssemblyInfoInputs.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\18.3koordinata.AssemblyInfo.cs
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\18.3koordinata.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\18.3koordinata.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\refint\18.3koordinata.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\18.3koordinata.pdb
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\18.3koordinata.genruntimeconfig.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.3koordinata\obj\Debug\net6.0-windows\ref\18.3koordinata.dll
