@@ -1,0 +1,17 @@
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\bin\Debug\net6.0-windows\18.8_halmazok.exe
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\bin\Debug\net6.0-windows\18.8_halmazok.deps.json
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\bin\Debug\net6.0-windows\18.8_halmazok.runtimeconfig.json
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\bin\Debug\net6.0-windows\18.8_halmazok.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\bin\Debug\net6.0-windows\18.8_halmazok.pdb
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\18.8_halmazok.csproj.AssemblyReference.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\_18._8_halmazok.Form1.resources
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\18.8_halmazok.csproj.GenerateResource.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\18.8_halmazok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\18.8_halmazok.AssemblyInfoInputs.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\18.8_halmazok.AssemblyInfo.cs
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\18.8_halmazok.csproj.CoreCompileInputs.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\18.8_halmazok.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\refint\18.8_halmazok.dll
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\18.8_halmazok.pdb
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\18.8_halmazok.genruntimeconfig.cache
+C:\Users\danko.anett\Desktop\Bereg\Bereg\18.8_halmazok\obj\Debug\net6.0-windows\ref\18.8_halmazok.dll
